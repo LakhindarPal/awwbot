@@ -1,0 +1,258 @@
+{
+  "ball8": {
+    "name": "8ball",
+    "description": "Ask the magic 8-ball a question.",
+    "messages": [
+      "Yes, definitely.",
+      "Without a doubt.",
+      "You may rely on it.",
+      "As I see it, yes.",
+      "Most likely.",
+      "Outlook good.",
+      "Yes.",
+      "Signs point to yes.",
+      "Reply hazy, try again.",
+      "Ask again later.",
+      "Better not tell you now.",
+      "Cannot predict now.",
+      "Concentrate and ask again.",
+      "Don't count on it.",
+      "My sources say no.",
+      "Outlook not so good.",
+      "Very doubtful."
+    ]
+  },
+  "trump": {
+    "name": "Donald Trump",
+    "description": "Ask Donald Trump a question.",
+    "messages": [
+      "That's a fantastic question. Let me tell you, nobody knows more about that than me.",
+      "I've been asked that before, and let me tell you, it's fake news.",
+      "Believe me, I know the best answer to that question, and it's tremendous.",
+      "You know, people are saying a lot of things about that, but I can assure you, it's going to be huge.",
+      "I'll give you a very honest answer: I have the best solution to that problem, and it's going to be incredible.",
+      "I don't want to brag, but I have the best track record on dealing with that issue.",
+      "Listen, I know more about that than anyone else, and I can tell you, it's not even a problem.",
+      "Let me just say this: nobody thought it could be done, but I did it. And it's beautiful.",
+      "I've thought about that a lot, and let me tell you, the answer is simple.",
+      "That's a very complicated question, but the answer is actually quite simple: we'll make it great again.",
+      "I'll be honest with you, nobody has ever asked me that before. But I'll give you a great answer."
+    ]
+  },
+  "obama": {
+    "name": "Barack Obama",
+    "description": "Ask Barack Obama a question.",
+    "messages": [
+      "That's a great question, and it's important to address it.",
+      "I've thought about that a lot, and here's what I believe.",
+      "Let me be clear, this is a complex issue, but we need to work together to find a solution.",
+      "This is something we've been focusing on, and here's our approach.",
+      "I appreciate your question, and let me provide some context for my answer.",
+      "I understand the concern, and it's something we're actively working on.",
+      "I've had conversations about this, and here's what I've learned.",
+      "I want to emphasize the importance of this issue, and here's why.",
+      "Let me share a story that illustrates why this matters so much to me.",
+      "I want to thank you for raising this question, as it's something we need to address."
+    ]
+  },
+  "biden": {
+    "name": "Joe Biden",
+    "description": "Ask Joe Biden a question.",
+    "messages": [
+      "Look, here's the deal...",
+      "Let me make something clear...",
+      "I understand your concern, and let me address it...",
+      "This is a priority for us, and here's what we're doing...",
+      "I've been working on this issue, and here's our plan...",
+      "I want to be honest with you...",
+      "We need to come together as a nation to tackle this...",
+      "Let me tell you what I've learned...",
+      "I'm committed to finding a solution...",
+      "I appreciate your question, and let me give you a straight answer..."
+    ]
+  },
+  "modiji": {
+    "name": "Narendra Modi",
+    "description": "Ask Narendra Modi a question.",
+    "messages": [
+      "Mitro, yeh samasya bahut mahatvapurna hai aur main aapse vaada karta hoon ki hum iska samadhan karne ki disha mein kaam kar rahe hain.",
+      "Bharat ke logon ka hit mera prathamik udeshya hai aur main unke samasyaon ka samadhan karne ki pratigya karta hoon.",
+      "Yeh meri dil ki baat hai aur main iska samadhan karne ki hamari drishti ko aapke saath baatna chahta hoon.",
+      "Humari sarkar har Bharatiya ke kalyan ko samarpit hai aur main vyaktigat roop se pratigya karta hoon ki yah samasya suljhayi jayegi.",
+      "Main aapke prashna ka aabhari hoon aur main is samasya ko suljhane ke liye hum le rahe kadamon ko prakashit karna chahta hoon.",
+      "Hum nirantar kaam kar rahe hain ek Naya Bharat banane ke liye, jahan har nagrik ki jarooratein poori ho.",
+      "Hamare desh ki shakti uske logon ki ekta mein hai aur hum mil kar mushkilon ko paar karenge.",
+      "Main humari yuvaon ki sashakti mein vishwas karta hoon aur main yeh vishwas hai ki ve Bharat ko pragati ki ore le jaayenge.",
+      "Har nirnay hum logon ki seva karne ki hamari pratigya dwara nirdharit hota hai.",
+      "Main aapko is mudde ko meri dhyan mein laane ke liye dhanyavad dena chahta hoon aur main aapko vishwas dilata hoon ki yeh samasya suljhayi jayegi."
+    ]
+  },
+  "rahulgandhi": {
+    "name": "Rahul Gandhi",
+    "description": "Ask Rahul Gandhi a question.",
+    "messages": [
+      "Uh... dekho yaar...",
+      "Answer toh hai... thoda sa complicated hai, samjha karo na.",
+      "Maine bahut socha hai iske baare mein, aur... uh...",
+      "Asal sawaal yeh hai ki... um...",
+      "Let me be clear... uh...",
+      "Humhe... uh... is masle ko sabhi nazariyon se dekhna hoga.",
+      "Main aapke sawaal ka samman karta hoon, aur... uh...",
+      "Congress party... uh... samadhaan dhundne mein samarpit hai.",
+      "Main aapko sacchaayi mein jawab doonga... uh...",
+      "Chalo ek kahani sunata hoon jo... uh...",
+      "Yeh bahut mahatvapurna hai, aur... uh...",
+      "Humhe... uh... milke is challenge ka samadhaan nikalna hoga."
+    ]
+  },
+  "amitshah": {
+    "name": "Amit Shah",
+    "description": "Ask Amit Shah a question.",
+    "messages": [
+      "Dekho bhai, yeh sawaal bahut important hai.",
+      "Hum ismein kaam kar rahe hain, aur jald hi result aayega.",
+      "Main ismein personally involved hoon, aur hum jald hi kuch announce karenge.",
+      "Humne ispe detailed study ki hai, aur humara approach bahut strategic hai.",
+      "Yeh matter mere liye top priority hai, aur main assure karta hoon ki hum ispe kaam kar rahe hain.",
+      "Humne sabhi stakeholders ke saath discussions ki hai, aur hum ek consensus par pahunch rahe hain.",
+      "Main aapke concern ko samajh sakta hoon, aur hum ispe kaam kar rahe hain.",
+      "Dekhiye, yeh bahut sensitive issue hai, aur hum ispe bahut dhyan de rahe hain.",
+      "Humne ek comprehensive plan banaya hai, aur jald hi implementation shuru karenge.",
+      "Main aapko yeh assurance deta hoon ki hum ispe koi compromise nahi karenge.",
+      "Mitron...",
+      "Aap chronology samajhiye...",
+      "Humara target hai 100%...",
+      "Humare paas ek hi cheez nahi hai, woh hai jazba...",
+      "Modi hai toh mumkin hai...",
+      "Yeh thoda tough hai, par yeh hamaare liye aasan hai..."
+    ]
+  },
+  "dog": {
+    "name": "Dog",
+    "description": "Ask a dog a question.",
+    "messages": [
+      "Woof!",
+      "Bark bark!",
+      "Ruff!",
+      "Woof woof!",
+      "Arf arf!",
+      "Bark!",
+      "Woof woof woof!",
+      "Bark bark bark!",
+      "Ruff ruff!",
+      "Woof woof woof woof!"
+    ]
+  },
+  "cat": {
+    "name": "Cat",
+    "description": "Ask a cat a question.",
+    "messages": [
+      "Meow!",
+      "Purr...",
+      "Meow meow!",
+      "Mrow!",
+      "Purr purr...",
+      "Meow!",
+      "Mrow mrow!",
+      "Meow...",
+      "Purr purr purr...",
+      "Meow meow meow!"
+    ]
+  },
+  "parrot": {
+    "name": "Parrot",
+    "description": "Ask a parrot a question.",
+    "messages": [
+      "Squawk!",
+      "Polly wants a cracker!",
+      "Hello, pretty bird!",
+      "Squawk squawk!",
+      "Polly wants a treat!",
+      "Squawk!",
+      "Pretty bird!",
+      "Squawk squawk squawk!",
+      "Polly wanna snack?",
+      "Squawk squawk squawk squawk!"
+    ]
+  },
+  "dolphin": {
+    "name": "Dolphin",
+    "description": "Ask a dolphin a question.",
+    "messages": [
+      "Eeek eek!",
+      "Click click!",
+      "Ee-ee-ee!",
+      "Eek eek eek!",
+      "Click click click!",
+      "Eeek!",
+      "Eek eek eek eek!",
+      "Click click click click!",
+      "Ee-ee!",
+      "Eeek eek eek eek eek!"
+    ]
+  },
+  "owl": {
+    "name": "Owl",
+    "description": "Ask an owl a question.",
+    "messages": [
+      "Hoo hoo!",
+      "Who? Who?",
+      "Hoot hoot!",
+      "Hoo-hoo-hoo!",
+      "Who who!",
+      "Hoo!",
+      "Hoo hoo hoo!",
+      "Who? Who? Who?",
+      "Hoot!",
+      "Hoo hoo hoo hoo!"
+    ]
+  },
+  "monkey": {
+    "name": "Monkey",
+    "description": "Ask a monkey a question.",
+    "messages": [
+      "Ooh ooh ooh!",
+      "Eee eee eee!",
+      "Ah ah ah!",
+      "Ooh ooh aah aah!",
+      "Eee eee!",
+      "Ah!",
+      "Ooh ooh ooh ooh!",
+      "Ah ah ah ah!",
+      "Eee!",
+      "Ooh ooh eee eee!"
+    ]
+  },
+  "elephant": {
+    "name": "Elephant",
+    "description": "Ask an elephant a question.",
+    "messages": [
+      "Trumpet!",
+      "Purr!",
+      "Rumble...",
+      "Trumpet trumpet!",
+      "Purr purr...",
+      "Rumble!",
+      "Trumpet trumpet trumpet!",
+      "Purr purr purr...",
+      "Rumble rumble...",
+      "Trumpet trumpet trumpet trumpet!"
+    ]
+  },
+  "lion": {
+    "name": "Lion",
+    "description": "Ask a lion a question.",
+    "messages": [
+      "Roar!",
+      "Grrr...",
+      "Roar roar!",
+      "Grrr grrr...",
+      "Roar!",
+      "Grrr...",
+      "Roar roar roar!",
+      "Grrr grrr grrr...",
+      "Roar!",
+      "Grrr..."
+    ]
+  }
+}

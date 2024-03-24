@@ -1,0 +1,20 @@
+{
+  "extends": ["prettier", "eslint:recommended"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": ["error"]
+  },
+  "env": {
+    "es2024": true,
+    "browser": true,
+    "es6": true,
+    "serviceworker": true
+  },
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": "latest"
+  },
+  "ignorePatterns": [
+    "node_modules"
+  ]
+}
