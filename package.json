@@ -19,7 +19,7 @@
   "author": "Lakhindar Pal",
   "license": "Apache License 2.0",
   "dependencies": {
-    "itty-router": "^4.2.2"
+    "itty-router": "^5.0.9"
   },
   "devDependencies": {
     "dotenv": "^16.4.5",
